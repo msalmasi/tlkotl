@@ -1,0 +1,150 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  background-image: white;
+  background-image: white;
+  font-family: Lato, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #333;
+  font-size: 14px;
+  line-height: 20px;
+}
+h1 {
+  display: block;
+  margin-top: 5%;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Lato, sans-serif;
+  color: white;
+  font-size: 38px;
+  text-align: center;
+  line-height: 44px;
+}
+h2 {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Lato, sans-serif;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  line-height: 38px;
+}
+h3 {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Lato, sans-serif;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  line-height: 30px;
+}
+h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+}
+h5 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+p {
+  display: block;
+  width: 80%;
+  margin-right: auto;
+  margin-bottom: 5px;
+  margin-left: auto;
+  font-family: Lato, sans-serif;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+}
+.section {
+}
+.header{
+  background-image: -webkit-linear-gradient(#203856, #83bee1);
+  background-image: linear-gradient(#203856, #83bee1);
+  height: auto;
+  padding-bottom: 5em;
+}
+.logo {
+  padding-top: 5em;
+  width: 100%;
+}
+.logoimage {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.contesttitleblock {
+  width: auto;
+}
+.contestitle {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Lato, sans-serif;
+  color: white;
+  text-align: center;
+}
+.contestdetails {
+  padding-top: 1em;
+}
+.titleblock {
+  width: auto;
+}
+.leaderboardtitle {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Lato, sans-serif;
+  color: white;
+  text-align: center;
+}
+.text {
+  font-size: 20px;
+  font-family: Lato, sans-serif;
+  color: white;
+  text-align: center;
+}
+.info {
+  background-image: -webkit-linear-gradient(#83bee1, #203856);
+  background-image: linear-gradient(#83bee1, #203856);
+  padding-top: 1em;
+  padding-bottom: 3em;
+  height: auto;
+}
+.leaderboard {
+  background-image: -webkit-linear-gradient(#203856, #83bee1);
+  background-image: linear-gradient(#203856, #83bee1);
+  padding-top: 1em;
+  height: auto;
+}
+.contestdescription {
+  margin-top: 5%;
+  text-align: center;
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 479px) {
+}
+  
